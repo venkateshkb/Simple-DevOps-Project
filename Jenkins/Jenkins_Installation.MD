@@ -25,7 +25,7 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
    :wq  // to save the changes
     # To set it permanently update your .bash_profile
    vi ~/.bash_profile
-   ```
+   make exit and sign in again using 'sudo su -'
    _The output should be something like this,_
     ```sh
    [root@~]# java -version
